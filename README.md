@@ -6,7 +6,7 @@
 
 ## 💡 About Me
 
-I am a passionate student interested in **Cloud Computing, AWS, and DevOps**.  
+I am a Thirdyear engineering student interested in **Cloud Computing, AWS, and DevOps**.  
 I enjoy building real-world projects and learning how cloud systems work.
 
 Currently, I am focusing on:
@@ -21,7 +21,7 @@ Currently, I am focusing on:
 
 - ☁️ Cloud-Based Attendance Management System (AWS EC2 + Database)
 - 📂 Serverless File Upload System (Lambda + S3 + API Gateway)
-- Website hosting using EC2 Instance with default apachw spark
+- Website hosting using EC2 Instance with default apache webserver
 
 ---
 
