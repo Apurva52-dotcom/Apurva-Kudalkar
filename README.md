@@ -21,6 +21,7 @@ Currently, I am focusing on:
 
 - ☁️ Cloud-Based Attendance Management System (AWS EC2 + Database)
 - 📂 Serverless File Upload System (Lambda + S3 + API Gateway)
+- Website hosting using EC2 Instance with default apachw spark
 
 ---
 
@@ -44,9 +45,11 @@ Currently, I am focusing on:
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
-- Email: yourmail@gmail.com
+- LinkedIn: www.linkedin.com/in/
+apurva-kudalkar-192599388
+
+- GitHub: https://github.com/Apurva52-dotcom
+- Email: apurvakudalkar20gmail.com
 
 ---
 
